@@ -1,0 +1,47 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+*.env
+
+# IBM Watsonx artifacts
+*.ibm
+*.model
+*.config
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Cloud or export files
+*.json
+*.yaml
+*.bak
+*.csv
+
+# Notebook autosaves/checkpoints (even if not used)
+.ipynb_checkpoints/
+*.autosave
+
+# IDE/editor-specific
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output or resource folders (optional)
+outputs/
+results/
+screenshots/
+
+# Archive and compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
