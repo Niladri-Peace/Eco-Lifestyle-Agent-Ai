@@ -1,4 +1,4 @@
-# 🌿 Eco Lifestyle Agent – IBM Watsonx RAG 
+# 🌿Eco Lifestyle Agent – IBM Watsonx RAG
 This project implements an AI-powered Eco Lifestyle Agent using **IBM Watsonx.ai** and **Retrieval-Augmented Generation (RAG)**. It provides users with personalized, reliable advice on how to live more sustainably by answering natural language questions using a custom knowledge base.
 
 ---
